@@ -106,6 +106,7 @@
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Ricktho Sarkar](https://github.com/Ricktho1)
 - [KTL](https://github.com/Kyaw08661/)
+- [Pin Yuan Wang](https://github.com/snowflake1201)
 - [G ZHANG](https://github.com/zgy600/)
 - [Amol Goel](https://github.com/deathrangerr/)
 - [Seemant Tripathi](https://github.com/seemanttripathi/)
